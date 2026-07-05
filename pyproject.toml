@@ -1,0 +1,5 @@
+[project]
+name = "codepilot-ai"
+version = "0.1.0"
+description = "Production AI Software Engineer"
+requires-python = ">=3.12"
