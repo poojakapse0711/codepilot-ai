@@ -5,6 +5,7 @@ description = "Production AI Software Engineer"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "fastapi>=0.139.0",
+    "langchain-text-splitters>=1.1.2",
     "pydantic-settings>=2.14.2",
     "uvicorn>=0.50.0",
 ]
